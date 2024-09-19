@@ -8,8 +8,6 @@ I'm Currently...
 🔭 Working on many different projects.  
 🌱 Learning about responsive web develompent.
 
-📫 How to reach me
-
-GitHub: github.com/taikasv
-
-Email: taika.svala@gmail.com
+📫 How to reach me  
+GitHub: github.com/taikasv  
+Email: taika.svala@gmail.com  
