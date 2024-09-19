@@ -1,7 +1,6 @@
 👋 Hi there, I'm Taika!
 
-🌍 About Me
-
+🌍 About Me  
 I'm taikasv, a student from finaland interested in everything related to technology and software engineering. 
 
 
