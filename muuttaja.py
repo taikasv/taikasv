@@ -13,9 +13,9 @@ ans = int(input("Anna muunnettava ajanmääre (joko päiviä tai tunteja)"))
 tyyppi = input("Onko antamasi määre päiviä vai tunteja (vastaa joko h tai d)")
 
 if tyyppi == "h":
-    minuuteiksi(ans)
+    minuutit = minuuteiksi(ans)
+   #minuuteiksi(ans)
     print(f"Minuuttien määrä {minuutit}")
-
 
 elif tyyppi == "d":
     tunneiksi(ans)
