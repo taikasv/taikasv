@@ -1,7 +1,7 @@
 👋 Hi there, I'm Taika!
 
 🌍 About Me  
-I'm taikasv, a student from finaland interested in everything related to technology and software engineering. 
+I'm taikasv, a student from Finland interested in everything related to technology and software engineering.
 
 
 I'm Currently...  
